@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/normalize-practice/static/css/main.18f5397f.css",
+    "main.js": "/normalize-practice/static/js/main.ff0b7ea7.js",
+    "home-view.css": "/normalize-practice/static/css/home-view.32688d1e.chunk.css",
+    "home-view.js": "/normalize-practice/static/js/home-view.d4dfe3a4.chunk.js",
+    "books-view.css": "/normalize-practice/static/css/books-view.32688d1e.chunk.css",
+    "books-view.js": "/normalize-practice/static/js/books-view.dc6c50cf.chunk.js",
+    "book-view.css": "/normalize-practice/static/css/book-view.32688d1e.chunk.css",
+    "book-view.js": "/normalize-practice/static/js/book-view.3d904a80.chunk.js",
+    "404-view.js": "/normalize-practice/static/js/404-view.dd4978f3.chunk.js",
+    "index.html": "/normalize-practice/index.html",
+    "main.18f5397f.css.map": "/normalize-practice/static/css/main.18f5397f.css.map",
+    "main.ff0b7ea7.js.map": "/normalize-practice/static/js/main.ff0b7ea7.js.map",
+    "home-view.32688d1e.chunk.css.map": "/normalize-practice/static/css/home-view.32688d1e.chunk.css.map",
+    "home-view.d4dfe3a4.chunk.js.map": "/normalize-practice/static/js/home-view.d4dfe3a4.chunk.js.map",
+    "books-view.32688d1e.chunk.css.map": "/normalize-practice/static/css/books-view.32688d1e.chunk.css.map",
+    "books-view.dc6c50cf.chunk.js.map": "/normalize-practice/static/js/books-view.dc6c50cf.chunk.js.map",
+    "book-view.32688d1e.chunk.css.map": "/normalize-practice/static/css/book-view.32688d1e.chunk.css.map",
+    "book-view.3d904a80.chunk.js.map": "/normalize-practice/static/js/book-view.3d904a80.chunk.js.map",
+    "404-view.dd4978f3.chunk.js.map": "/normalize-practice/static/js/404-view.dd4978f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f5397f.css",
+    "static/js/main.ff0b7ea7.js"
+  ]
+}
